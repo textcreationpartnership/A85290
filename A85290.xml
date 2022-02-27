@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A fight in the North at the Dales in Richmondshire; betwixt the forces of His Excellency Sir Thomas Fairfax (under command of Major Generall Lambert) and the clubmen and inhabitants of the said county. With the manner of the fight, and how the said forces were put to retreat, and forced to betake themselves to churches for safeguard. With the proceedings of the Major Generall therenpon [sic].</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85290</idno>
+            <idno type="STC">Wing F901</idno>
+            <idno type="STC">Thomason E407_45</idno>
+            <idno type="STC">Thomason E408_2</idno>
+            <idno type="STC">ESTC R204663</idno>
+            <idno type="EEBO-CITATION">99864129</idno>
+            <idno type="PROQUEST">99864129</idno>
+            <idno type="VID">160536</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85290)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160536)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E407[45] or 64:E408[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A fight in the North at the Dales in Richmondshire; betwixt the forces of His Excellency Sir Thomas Fairfax (under command of Major Generall Lambert) and the clubmen and inhabitants of the said county. With the manner of the fight, and how the said forces were put to retreat, and forced to betake themselves to churches for safeguard. With the proceedings of the Major Generall therenpon [sic].</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Woodas,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>anno Dom. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Annotation on both Thomason copies: "7ber [i.e. September] 22".</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Richmond (North Yorkshire, England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160536:1"/>
+            <pb facs="tcp:160536:1" rendition="simple:additions"/>
+            <p>A FIGHT IN THE NORTH <hi>At the Dales in</hi> Richmondſhire; BETWIXT The Forces of His Excellency Sir <hi>Thomas Fairfax</hi> (under command of Major Generall <hi>Lambert</hi>) and the Clubmen and Inhabitants of the ſaid County.</p>
+            <p>With the manner of the Fight, and how the ſaid For<g ref="char:EOLhyphen"/>ces were put to retreat, and forced to betake them<g ref="char:EOLhyphen"/>ſelves to Churches for ſafeguard. With the proceedings of the Major Generall thereupon.</p>
+            <p>LONDON: Printed for <hi>R. Woodas,</hi> Anno Dom. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:160536:2"/>
+            <pb facs="tcp:160536:2"/>
+            <head>A Great FIGHT <hi>IN THE</hi> NORTH Betwixt the Forces of his Excellency Sir <hi>Thomas Fairfax,</hi> under command of Ma<g ref="char:EOLhyphen"/>jor Gen. <hi>Lambert,</hi> and the inhabitants of <hi>Richmondſhire,</hi> in the <hi>Dales.</hi>
+            </head>
+            <p>UPon Munday we received intelligence from the North, of a late Fight betwixt the Forces under command of Major Gen. <hi>Lambert,</hi> and the Inhabitants of <hi>Richmond<g ref="char:EOLhyphen"/>ſhire,</hi> the occaſion and reaſon whereof, I ſhall
+<pb facs="tcp:160536:3"/>here impart, <hi>viz.</hi> Major Generall <hi>Lambert,</hi> &amp; and the reſt of the Officers of the Northerne aſſociation, having called a Councell of war at <hi>Wakefield,</hi> who after ſome conſultation and debate, touching the ſafety and preſervation of thoſe parts, and to eaſe the Country of their heavy oppreſſures, by reaſon of the long and tedious quartering of the Souldiery, reſolved (with one unanimous conſent) to remove more Northwards, with their army, &amp; there<g ref="char:EOLhyphen"/>upon quarters were deſigned for every reſpe<g ref="char:EOLhyphen"/>ctive Regiment, Col. <hi>Thornton</hi> with his Regi<g ref="char:EOLhyphen"/>ment being appointed to quarter in <hi>Rich<g ref="char:EOLhyphen"/>mondſhire,</hi> where they met with the greateſt oppoſition, for the Inhabitants thereof ha<g ref="char:EOLhyphen"/>ving notice of their deſign, immediatly ar<g ref="char:EOLhyphen"/>med themſelves, and in the Dales reſolved to meet them, where Major <hi>Copperthwait</hi> reſol<g ref="char:EOLhyphen"/>ving to try their courage, advanced into the ſaid Dales with about two hundred Foot, but were reſiſted in a very reſolute manner by many hundred of the inhabitants, inſo<g ref="char:EOLhyphen"/>much, that there began a hot engagement, and many fierce and vehement blowes were ex<g ref="char:EOLhyphen"/>changed, for the ſpace of two houres, but at
+<pb facs="tcp:160536:3"/>the laſt our men were firſt to retreat, and to betake themſelves to a Church for ſafeguard: after which, another party roſe againſt Cap<g ref="char:EOLhyphen"/>tain <hi>Dinelies</hi> Company, and endeavoured to keep them out of South Dale, which accor<g ref="char:EOLhyphen"/>dingly they did; but before they loſt ground they cooled the fiery ſpirits of ſome of the Dalonians, and had they not been over-pow<g ref="char:EOLhyphen"/>red, they had put them to the retreat, and cau<g ref="char:EOLhyphen"/>ſed them to have ſang the ſad Dittie of the Dorſetſhire Clubmen. But at the laſt, the ſaid Captain were alſo forced to change ground, and retreated alſo to a place of ſafety, who immediatly diſpatched a Meſſenger to the Major-Generall for reliefe; the Major Gene<g ref="char:EOLhyphen"/>rall hath uſed all meane to perſwade them to it, but if that prevaile not, ſome other courſe will be taken. There was not much hurt done in either of theſe Conflicts, only two or three of our men bruiſed with ſtones, and other weapons; but it is ſuppoſed many of them are fore hurt. What the iſſue of this will bee, it cannot as yet be underſtood, onely this I can aſſure you, they are far more ſuitable to the diſpoſirion of the Souldiery then for<g ref="char:EOLhyphen"/>merly.</p>
+            <pb facs="tcp:160536:4"/>
+            <p>By Letter from the North this day came thus. Major Generall Lambert hath written ſeverall times to the Lord Maior of Yorke for the admitting of Major Ca<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther Governour of Cliffords Tower and his Company (or 60 thereof) to be there, but the Major of Yorke ſeemes unwilling, ſtauding uyon o<g ref="char:EOLhyphen"/>ther authority. Yeſterday ſeverall rules and Orders agreed upon at a Councell of Warre at Wakefield for equallity of quartering and regulating the Army into Quarters, which the Major Generall thought not ſit to put in execution wit out firſt acquainting the Committee theretwith, ſuch fateneſſe and civility, and moderation doth he uſe, moving equallity to all according to juſtice. and indeavouring (how the ſword is ſheathed) to win and overcome by love, he endea<g ref="char:EOLhyphen"/>voured to reenciſe diffierences betwixt party and party. The Clargy are vero importunate with him for the aſſiſtance of Souldiers to give them poſſeſſion of Tithes, but he rather takes tee trauble upon him ſelf by faire meanes to worke Reconciliation, A man ſo compleatly compoſed for ſuch an employment, <hi>(Rebus ſic ſtantibus)</hi> could not have beene pitched upon befides.</p>
+            <p>The two Northumberland Troopes onder Major Shafto and Caytain Shafto that engaged with their Officers for Ireland, pretending they have bin wronged by theie Officers in paint of yay relinquiſht their ſervice and left their Officers, they are mow ap<g ref="char:EOLhyphen"/>pointed to quarter in Forthumberland, and with their modey they ſtould hrve had at their taanſportation, they are ſtortly to be diſbanded, the Major Generall I will go in perſon into that county to diſband them
+<pb facs="tcp:160536:4"/>Nevertheleſſe, Major <hi>Shesfto</hi> reſolves to the ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rvice, and about eighteen of his troope re<g ref="char:EOLhyphen"/>maine with him, and within ſixe weekes he intends to compleat a full troope, quarters are appointed for them, and all encourage<g ref="char:EOLhyphen"/>ment given for that ſervice.</p>
+         </div>
+         <div type="message">
+            <head>A Meſſage from the Lord Mayer of York, to the Generall, concerning the preſent affaires of the North.</head>
+            <p>THe Right Honourable the Lord Major of <hi>York</hi> having received a Letter from Major Gen. <hi>Lambert,</hi> for making Major <hi>Carter</hi> Governour of Cliffords tower, his Lordſhip returned this anſwer, That he deſired there might be a faire correſpondancy and right underſtanding, concerning the reſigning up of Cliffords tower, to the power and protec<g ref="char:EOLhyphen"/>tion of the ſaid Major, and therefore invited the Major Generall to a Dinner; But his an<g ref="char:EOLhyphen"/>ſwer was, to the firſt he deſired the ſame, and did nothing therein but in proſecution of
+<pb facs="tcp:160536:5" rendition="simple:additions"/>his duty and truſt. To the ſecond, <hi>That he</hi> would wait on his Lordſhip in the mor<g ref="char:EOLhyphen"/>ning, but the great affaires he had in hand for the publique ſervice would not permit him to accept it.</p>
+            <p>The ſaid Major Generall deports himſelfe very excellently in the truſt repoſed in him, and gaineth the love of all people whereſo<g ref="char:EOLhyphen"/>ever he goes, keeping his Souldiery in excel<g ref="char:EOLhyphen"/>lent order and Diſcipline.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
